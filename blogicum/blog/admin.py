@@ -4,6 +4,7 @@ from .models import Category, Location, Post
 
 LENGTH_STRING = 50
 
+
 @admin.register(Post)
 class PostAdmin(admin.ModelAdmin):
     """Кастомизация админки для модели Post."""
