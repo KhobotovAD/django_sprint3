@@ -4,6 +4,7 @@ from django.db import models
 LENGHT_STRING = 20
 MAX_LENGTH = 256
 
+
 User = get_user_model()
 
 
