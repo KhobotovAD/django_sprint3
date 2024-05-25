@@ -24,7 +24,7 @@
 1. Клонирование репозитория
 
 ```
-git clone https://github.com/sergeytsepilov-dev/django_sprint3.git
+git clone https://github.com/KhobotovAD/django_sprint3.git
 ```
 
 2. Переход в директорию django_sprint3
